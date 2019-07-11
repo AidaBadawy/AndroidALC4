@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="button_one_text">About ALC</string>
+    <string name="button_two_text">My Profile</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="profile_content">Profile image</string>
+    <string name="profile_text">Aidarus Badawy</string>
+    <string name="track_title">Track:</string>
+    <string name="track_text">Android</string>
+    <string name="country_title">Country:</string>
+    <string name="country_text">Kenya</string>
+    <string name="email_title">Email:</string>
+    <string name="email_text">aidarusbadawy@rocketmail.com</string>
+    <string name="phone_title">Phone Number:</string>
+    <string name="phone_text">+254 701 887 881</string>
+    <string name="username_title">Slack Username:</string>
+    <string name="username_text">@Aidarus Badawy</string>
+</resources>
